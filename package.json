@@ -2,7 +2,7 @@
   "name": "mixture-of-vietnam",
   "displayName": "Mixture of Vietnam",
   "description": "Personal VS Code themes, each named after a city in Vietnam.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "thai-nm",
   "license": "MIT",
   "repository": {
@@ -43,6 +43,16 @@
         "label": "Hai Duong Rubric Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/hai-duong-rubric-dark-color-theme.json"
+      },
+      {
+        "label": "Hai Duong Vellum Gilt Light",
+        "uiTheme": "vs",
+        "path": "./themes/hai-duong-vellum-gilt-light-color-theme.json"
+      },
+      {
+        "label": "Hai Duong Vellum Gilt Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hai-duong-vellum-gilt-dark-color-theme.json"
       }
     ]
   }
