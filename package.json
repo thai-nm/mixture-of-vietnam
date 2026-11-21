@@ -1,0 +1,49 @@
+{
+  "name": "mixture-of-vietnam",
+  "displayName": "Mixture of Vietnam",
+  "description": "Personal VS Code themes, each named after a city in Vietnam.",
+  "version": "0.1.0",
+  "publisher": "thai-nm",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thai-nm/mixture-of-vietnam"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "dark",
+    "monochrome",
+    "gold"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hai Duong Gilt Light",
+        "uiTheme": "vs",
+        "path": "./themes/hai-duong-gilt-light-color-theme.json"
+      },
+      {
+        "label": "Hai Duong Gilt Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hai-duong-gilt-dark-color-theme.json"
+      },
+      {
+        "label": "Hai Duong Rubric Light",
+        "uiTheme": "vs",
+        "path": "./themes/hai-duong-rubric-light-color-theme.json"
+      },
+      {
+        "label": "Hai Duong Rubric Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hai-duong-rubric-dark-color-theme.json"
+      }
+    ]
+  }
+}
